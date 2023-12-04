@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=50&lines=Rimbow002" style="width: 600px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=10&lines=Rimbow002" style="width: 600px;">
 <img width="36%" heigth="10%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 600px;"><br><br>
 
 </hr>
