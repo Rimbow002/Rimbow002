@@ -44,7 +44,7 @@
 </p>
 
 <h2>Contact</h2>
-<p>I'm excited to connect and collaborate on compelling projects! Find me on <a href="LinkedIn_Link">LinkedIn</a> or drop me an <a href="mailto:your_email@example.com">Email</a>.</p>
+<p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
