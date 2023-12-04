@@ -25,7 +25,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <b>Languages</b>
 </p>
@@ -47,7 +46,7 @@
 <h2>Contact</h2>
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<h2 align="center">My GitHub Stats</h2>
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rimbow002" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rimbow002" /></p>
