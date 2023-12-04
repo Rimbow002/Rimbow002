@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=Rimbow002" style="width: 600px;">
 </a>
 <hr width="36%" > 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 600px;"><br><br>
+<img width="36%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 600px;"><br><br>
 
 </hr>
 
