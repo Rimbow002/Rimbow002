@@ -4,6 +4,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 600px;"><br><br>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,cs,cpp,css,dotnet,firebase,azure,git,github,gherkin,html,idea,java,js,mysql,netlify,postman,py,spring,tailwind,visualstudio&perline=14" />
+  </a>
+</p>
+
 <!--
 **Rimbow002/Rimbow002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
