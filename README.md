@@ -16,8 +16,8 @@
 <p>🔧 [Project 3]: Brief description or link</p>
 
 <h2>Technical Proficiency</h2>
-<p align="center"> <!-- New Header -->
-  <b>Tools, Languages, and Frameworks</b>
+<p align="center">
+  <b>Tools</b>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,11 +26,17 @@
 </p>
 
 <p align="center">
+  <b>Languages</b>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4" />
   </a>
 </p>
 
+<p align="center">
+  <b>Frameworks</b>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
