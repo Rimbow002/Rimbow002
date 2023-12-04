@@ -1,4 +1,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=Rimbow002"></a>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--
 **Rimbow002/Rimbow002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
