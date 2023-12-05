@@ -14,9 +14,8 @@
 
 
 <h2>My GitHub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rimbow002"/></p>
+<p align="center">Tools - Languages - Frameworks</p>
 
-<h2>Technical Proficiency</h2>
 <div style="display: flex; justify-content: space-around;">
   <div>
     <p align="center">
@@ -51,7 +50,6 @@
     </p>
   </div>
 </div>
-
 
 <h2>Contact</h2>
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
