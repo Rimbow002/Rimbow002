@@ -10,33 +10,41 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rimbow002"/></p>
 
 <h2>Technical Proficiency</h2>
-<p align="center">
-  <b>Tools</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
-  </a>
-</p>
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <p align="center">
+      <b>Tools</b>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
+      </a>
+    </p>
+  </div>
 
+  <div>
+    <p align="center">
+      <b>Languages</b>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4" />
+      </a>
+    </p>
+  </div>
 
-<p align="center">
-  <b>Languages</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4" />
-  </a>
-</p>
+  <div>
+    <p align="center">
+      <b>Frameworks</b>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=firebase,dotnet,spring,tailwind&perline=4" />
+      </a>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  <b>Frameworks</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,dotnet,spring,tailwind&perline=4" />
-  </a>
-</p>
 
 <h2>Contact</h2>
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
