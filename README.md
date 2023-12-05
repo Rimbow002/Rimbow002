@@ -3,16 +3,10 @@
 
 <h2>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.<h2>
 
-<h2>Interests</h2>
-<p>Web development, mobile apps, and software engineering</p>
-<p>Emerging tech, AI, and cutting-edge solutions</p>
-
-<h2>Interests</h2>
+<h2></h2>
 <p align="center"><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300"></p>
 
 <h2>My GitHub Stats</h2>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Rimbow002" /></p>
 
 <h2>Technical Proficiency</h2>
