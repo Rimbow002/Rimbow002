@@ -43,4 +43,4 @@
 
 <h2>Contact</h2>
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 600px;"><br><br>
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ><br><br>
