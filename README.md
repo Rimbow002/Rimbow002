@@ -2,16 +2,14 @@
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=50&width=900&height=70&lines=Rimbow002">
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; width: 50%; border: none;">
-      <h3>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
-    </td>
-    <td style="text-align: right; width: 50%; border: none;">
-      <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; width: 100%;">
+  <div style="flex: 1;">
+    <h3>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" />
+  </div>
+</div>
 
 
 
