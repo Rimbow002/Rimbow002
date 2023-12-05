@@ -2,7 +2,7 @@
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=50&width=900&height=70&lines=Rimbow002">
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
+<table style="width: 100%; border: none; ">
   <tr>
     <td style="text-align: left; width: 50%; border: none;">
       <h3>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
