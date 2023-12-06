@@ -20,7 +20,7 @@
 <h2>Technical Proficiency</h2>
 <div align="center"> 
 <table cellspacing="20" border="0">
-  <tr>
+  <tr border="0">
     <td valign="top" align="center">
       <div>
         <p><b>Tools</b></p>
