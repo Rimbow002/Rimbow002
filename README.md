@@ -18,10 +18,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rimbow002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rimbow002"/></p>
 
 <h2>Technical Proficiency</h2>
-<div align="center"> 
-<table cellspacing="20" border="0">
+<div align="center" border="0"> 
+<table cellspacing="20">
   <tr border="0">
-    <td valign="top" align="center" border="0">
+    <td valign="top" align="center" >
       <div>
         <p><b>Tools</b></p>
         <a href="https://skillicons.dev">
