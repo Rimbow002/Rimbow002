@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
+<p align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=50&width=900&height=70&lines=Rimbow002">
-
+</p>
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
     <h3>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
