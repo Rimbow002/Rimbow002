@@ -19,7 +19,7 @@
 
 <h2>Technical Proficiency</h2>
 <div align="center">
-  <table cellspacing="20" border="0"  style="border: none;" >
+  <table cellspacing="20" border="0" >
     <tr>
       <td valign="top" align="center" border="0">
         <div>
@@ -54,3 +54,6 @@
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+td, th {
+    border: 0px solid grey
+}
