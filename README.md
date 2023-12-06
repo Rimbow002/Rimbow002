@@ -14,7 +14,7 @@
 
 
 <h2>My GitHub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rimbow002&show_icons=true&include_all_commits=false&theme=dark&locale=en&layout=compact" alt="Rimbow002"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rimbow002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rimbow002"/></p>
 
 <h2>Technical Proficiency</h2>
 <div style="display: flex; justify-content: space-around;">
