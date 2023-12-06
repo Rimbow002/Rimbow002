@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>\
+
 <div align="center";>
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=50&width=250&height=70&lines=Rimbow002">  
 </div>
@@ -56,3 +56,5 @@
 
 <h2>Contact</h2>
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
