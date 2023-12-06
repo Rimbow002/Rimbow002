@@ -56,5 +56,11 @@
 
 <h2>Technical Proficiency</h2>
 
-Tools  Languages  Frameworks 
-[![Tools](https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4)](https://skillicons.dev)  [![Languages](https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4)](https://skillicons.dev)  [![Frameworks](https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4)](https://skillicons.dev) 
+<h2>Technical Proficiency</h2>
+
+[![Tools](https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4)](https://skillicons.dev)
+
