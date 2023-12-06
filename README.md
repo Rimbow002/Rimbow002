@@ -19,7 +19,7 @@
 
 <h2>Technical Proficiency</h2>
 <div align="center">
-  <table cellspacing="20" border="0">
+  <table cellspacing="20" border="0"  style="border: none;" >
     <tr>
       <td valign="top" align="center" border="0">
         <div>
