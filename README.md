@@ -21,7 +21,7 @@
 <div align="center"> 
 <table cellspacing="20" border="0">
   <tr border="0">
-    <td valign="top" align="center">
+    <td valign="top" align="center" border="0">
       <div>
         <p><b>Tools</b></p>
         <a href="https://skillicons.dev">
