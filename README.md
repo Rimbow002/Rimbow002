@@ -18,40 +18,34 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rimbow002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rimbow002"/></p>
 
 <h2>Technical Proficiency</h2>
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <p align="center">
-      <b>Tools</b>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
-      </a>
-    </p>
-  </div>
-
-  <div>
-    <p align="center">
-      <b>Languages</b>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4" />
-      </a>
-    </p>
-  </div>
-
-  <div>
-    <p align="center">
-      <b>Frameworks</b>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4" />
-      </a>
-    </p>
-  </div>
-</div>
+<table cellspacing="20">
+  <tr>
+    <td valign="top" align="center">
+      <div>
+        <p><b>Tools</b></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" align="center">
+      <div>
+        <p><b>Languages</b></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" align="center">
+      <div>
+        <p><b>Frameworks</b></p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <h2>Contact</h2>
