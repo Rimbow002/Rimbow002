@@ -54,6 +54,8 @@
 <p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-td, th {
-    border: 0px solid grey
-}
+<h2>Technical Proficiency</h2>
+
+| Tools | Languages | Frameworks |
+|-------|-----------|------------|
+| [![Tools](https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4)](https://skillicons.dev) | [![Languages](https://skillicons.dev/icons?i=cs,cpp,css,gherkin,html,java,js,py&perline=4)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4)](https://skillicons.dev) |
