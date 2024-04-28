@@ -51,7 +51,7 @@
 
 
 <h2>Contact</h2>
-<p>Drop me an <a href="mailto:enzotrujilloacosta@gmail.com">Email</a>.</p>
+<p>📧 Contact me: <a href="mailto:enzotrujilloacosta@gmail.com">Email</a> or <a href="https://pe.linkedin.com/in/enzo-paolo-trujillo-acosta-b4aa08268/es">Linkedin</a>.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
