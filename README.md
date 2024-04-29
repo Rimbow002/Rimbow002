@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
+  <h5>I'm Rimbow002, a driven Software Engineering student relentlessly pursuing innovative solutions and intriguing challenges in the tech realm.</h3>
 </div>
 
 <h2>Technical Proficiency</h2>
