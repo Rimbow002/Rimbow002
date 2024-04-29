@@ -41,7 +41,7 @@
         <div>
           <p><b>Frameworks</b></p>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=dotnet,spring,tailwind&perline=4,django,fastapi" />
+            <img src="https://skillicons.dev/icons?i=dotnet,spring,,django,fastapi,tailwind&perline=4" />
           </a>
         </div>
       </td>
