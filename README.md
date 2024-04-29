@@ -1,27 +1,20 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## Rimbow002 ‍
 
-<div align="center">
-  <h3>👨‍💻~ Software engineering student, consistently ranked in the top ten in most academic cycles, with the ability to develop web and mobile software. Passionate about solving technological problems through analysis, delivering effective, quality solutions. Enjoy leading teams, working collaboratively, and sharing knowledge. Committed to delivering excellence in everything I do.</h3>
-</div>
+**Driven Software Engineering student** on a quest for innovative solutions and captivating challenges in the tech world!  I leverage my proficiency in various languages (Java, C#, Python, etc.) and frameworks (Angular, .NET, Django, and more) to craft web and mobile applications ️.
 
-<h2>Technical Proficiency</h2>
-<div align="center">
-  <ul>
-    <li>🧩 Software Patterns</li>
-    <li>🗃️ Database Design (SQL & NoSQL)</li>
-    <li>🛠️ Frontend (Angular16, Vue)</li>
-    <li>💻 Language (Java, C#, Python, C++)</li>
-    <li>🔙 Backend (SpringBoot, .NET, FastApi, Django)</li>
-    <li>🔄 API consuming/creation</li>
-    <li>📱 Mobile (Kotlin)</li>
-    <li>🔍 QA Analysis</li>
-    <li>🎨 UX/UI Design (Figma)</li>
-    <li>🔄 Agile Methodologies (Lean UX, User Stories, Backlogs)</li>
-    <li>📊 Data Structures and Algorithms Complexity</li>
-  </ul>
-</div>
+**Technical Skills** (Icons by [Skillicons](https://skillicons.dev)):
 
-<h2>Contact</h2>
-<p>📧 Contact me: <a href="mailto:enzotrujilloacosta@gmail.com">Email</a> or <a href="https://pe.linkedin.com/in/enzo-paolo-trujillo-acosta-b4aa08268/es">Linkedin</a>.</p>
+* **Tools:**  Azure, Firebase, Git, GitHub, IDEs, MySQL, Netlify, Postman, Visual Studio
+* **Languages:**  C#, C++, CSS, Gherkin, HTML, Java, JavaScript, Python
+* **Frameworks:**  .NET, Spring, Tailwind
+
+**GitHub Stats:**
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimbow002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/Rimbow002)
+
+**Connect with me:**
+
+* Email: [enzotrujilloacosta@gmail.com](mailto:enzotrujilloacosta@gmail.com)
+* LinkedIn: [Enzo Paolo Trujillo Acosta](https://pe.linkedin.com/in/enzo-paolo-trujillo-acosta-b4aa08268/es)
+
+**Stay tuned!** (Add animated GIF here)
