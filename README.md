@@ -25,7 +25,7 @@
         <div>
           <p><b>Tools</b></p>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,visualstudio&perline=4" />
+            <img src="https://skillicons.dev/icons?i=azure,firebase,git,github,idea,mysql,netlify,postman,vscode,visualstudio&perline=4" />
           </a>
         </div>
       </td>
